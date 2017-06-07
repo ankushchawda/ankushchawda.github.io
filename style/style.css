@@ -1,0 +1,195 @@
+.container{
+height: 500px;
+}
+.nav{
+
+	font-size: 24px;
+	float: right;
+	margin-right: -100px;
+    margin-top: 60px;
+    clear: both;
+}
+.nav li{
+	padding: 14px 17px;
+	float: right;
+	font-size: 30px;
+	flood-color: red;
+
+	
+}
+.nav a:hover{
+	color: blue;
+	background: red;
+	clear: both;
+}
+
+#text{
+	width: 1200px;
+	height: 50px;
+	align-content: center;
+	margin-top: 117px;
+	font-size:40px;
+}
+
+#logo img{
+	width: 500px;
+	float: left;
+     
+     margin-left: 102px;
+}
+
+#search{
+	float: left;
+}
+
+#top {
+
+	background: black;
+	height: 400px;
+}
+
+#meun{
+	float: left;
+}
+
+
+
+#block{
+    width: 2275px;
+	height: auto;
+	float: right;
+	margin-right: 8px;
+}
+
+
+
+#sidebar{
+	background: #151718;
+	width: 396px;
+	height: 100%;
+	display: block;
+	position: absolute;
+	left: 0px;
+	top: 417px;
+	transition: left 0.3s linear;
+}
+ol{
+	margin: 10px;
+	padding: 0px;
+}
+
+ ol li{
+	list-style: none;
+}
+ol li a{
+
+	background: #1c1e1f;
+	color: #ccc;
+	border: 1px solid #111;
+	display: block;
+	width: 381px;
+	padding: 25px;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+h1{
+	text-align: center;
+}
+
+.headline{
+	background: #151718;
+	width: 2275px;
+	height: 90px;
+	display: block;
+	position: absolute;
+	
+}
+#addcart{
+	width: 205px;
+	height: 54px;
+	border-radius: 43px;
+	background-color: #1a53ff;
+	color: white;
+	font-size: 22px;
+	font-weight: bolder;
+	border-left: inset 0px -5px rgba(0,0,0,0.5);
+	float: right;
+}
+
+#cart{
+	padding: 20px;
+	margin-right: 20px;
+}
+
+#wel{
+	
+	color: white;
+	font-size: 42px;
+    margin: 0 937px;
+}
+
+
+
+
+.db_photo{
+    
+   
+   width:394px;
+   height: 593px;
+   float: left;
+   margin-top: 165px;
+   margin-left:  151px;
+
+}
+
+#wel{
+	margin-top: -40px;
+
+}
+
+#google{
+	margin-right: 10px;
+	 word-spacing: 30px;
+}
+
+#top_cart{
+	margin-top: -40px;
+}
+
+#img3{
+	
+	width: 450px;
+	float: right;
+    margin-top: 0px;
+	margin-right: 300px;
+}
+
+#img2{
+	
+	width: 450px;
+	float: right;
+	margin-right: 300px;
+	margin-top:0px;
+	height: 600px;
+}
+#img1{
+	height: 600px; 
+    margin-top: 100px;
+    margin-left: 917px;
+
+}
+
+.main{
+      
+       width: 2240px;
+       height: 1000px;
+
+}
+#main2{
+        
+       
+        height: 1200px;
+
+}
